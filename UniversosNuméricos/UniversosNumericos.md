@@ -33,10 +33,6 @@ $$
 \mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}
 $$
 
-**Aplicaciones:**
-- **Contabilidad:** Ganancias (+) y pérdidas (-).
-- **Física:** Sentido de movimiento o carga eléctrica.
-
 ---
 
 ### 1.3 Números racionales (ℚ)
@@ -102,7 +98,7 @@ La **recta numérica** es una representación lineal donde a cada punto le corre
 - Ubicar números irracionales.
 - Interpretar desigualdades.
 
-![Recta Numérica con Números Naturales, Enteros, Racionales e Irracionales](image.png)
+![alt text](recta-numérica.png)
 
 ---
 
@@ -167,16 +163,16 @@ Este método utiliza el **Teorema de Pitágoras** ($a^2 + b^2 = c^2$) para const
 
 ##### Ejemplo detallado: Ubicación de \(\sqrt{2}\) y \(\sqrt{3}\)
 
-*   **Para \(\sqrt{2}\):**
+*   **Para $\sqrt{2}$:**
     1. Base de longitud 1 sobre el eje X.
     2. Altura de longitud 1 perpendicular.
-    3. Hipotenusa = \(\sqrt{1^2 + 1^2} = \sqrt{2}\).
+    3. Hipotenusa = $\sqrt{1^2 + 1^2} = \sqrt{2}$.
     4. El arco marca el punto aproximadamente en $1.41$.
 
-*   **Para \(\sqrt{3}\) (Efecto caracol):**
-    1. Base de longitud \(\sqrt{2}\) (usando el punto que acabamos de marcar).
+*   **Para $\sqrt{3}$ (Efecto caracol):**
+    1. Base de longitud $\sqrt{2}$ (usando el punto que acabamos de marcar).
     2. Altura de longitud 1 perpendicular.
-    3. Hipotenusa = \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{2+1} = \sqrt{3}\).
+    3. Hipotenusa = $\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{2+1} = \sqrt{3}$.
     4. El arco marca el punto aproximadamente en $1.73$.
 
 ![Construcción geométrica de raíces cuadradas en la recta numérica](irracionales-recta.png)
@@ -417,9 +413,9 @@ En la expresión **\(a^n = P\)**:
 La **radicación** busca encontrar la base de una potencia cuando conocemos el exponente (índice) y el resultado (radicando).
 
 ### 9.1 Elementos de la raíz
-En la expresión **\(\sqrt[n]{a} = b\)**:
+En la expresión **$\sqrt[n]{a} = b$**:
 - **\(n\)**: **Índice** (grado de la raíz). Si no aparece, es 2 (raíz cuadrada).
-- **\(\sqrt{}\)**: **Radical** (el símbolo).
+- **$\sqrt{}$**: **Radical** (el símbolo).
 - **\(a\)**: **Radicando** o Cantidad Subradical.
 - **\(b\)**: **Raíz** (el resultado).
 
@@ -434,7 +430,8 @@ En la expresión **\(\sqrt[n]{a} = b\)**:
 | **Raíz de un cociente** | $\sqrt[n]{\frac{a}{b}} = \frac{\sqrt[n]{a}}{\sqrt[n]{b}}$ | $\sqrt[3]{\frac{8}{27}} = \frac{2}{3}$ |
 | **Raíz de una raíz** | $\sqrt[m]{\sqrt[n]{a}} = \sqrt[m \cdot n]{a}$ | $\sqrt{\sqrt[3]{64}} = \sqrt[6]{64} = 2$ |
 | **Raíz de una potencia** | $\sqrt[n]{a^n} = a$ (si $n$ impar) | $\sqrt[3]{5^3} = 5$ |
-| **Raíz de potencia par** | $\sqrt[n]{a^n} = |a|$ (si $n$ par) | $\sqrt{(-3)^2} = |-3| = 3$ |
+| **Raíz de potencia par** | $\sqrt[n]{a^n} = \|a\|$ (si $n$ par) | $\sqrt{(-3)^2} = \|-3\| = 3$ |
+
 
 ---
 
@@ -477,8 +474,8 @@ $$
 
 | Operación | Pregunta clave | Relación |
 |---------|----------|----------|
-| Potenciación | ¿Cuál es el resultado? | \(b^x = a\) |
-| Radicación | ¿Cuál es la base? | \(\sqrt[x]{a} = b\) |
-| Logaritmación | ¿Cuál es el exponente? | \(\log_b a = x\) |
+| Potenciación | ¿Cuál es el resultado? | $b^x = a$ |
+| Radicación | ¿Cuál es la base? | $\sqrt[x]{a} = b$ |
+| Logaritmación | ¿Cuál es el exponente? | $\log_b a = x$ |
 
 ---
