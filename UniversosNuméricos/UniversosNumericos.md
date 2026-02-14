@@ -259,17 +259,13 @@ En una obra, 4 trabajadores realizan una labor en 6 días. ¿Cuántos días tard
 **Planteamiento (Inversa):**
 Como hay más trabajadores, el tiempo **debe ser menor**. No se igualan las fracciones directamente, sino los productos:
 
-$$
-\text{Trabajadores}_1 \cdot \text{Días}_1 = \text{Trabajadores}_2 \cdot \text{Días}_2
-$$
-$$
-4 \cdot 6 = 6 \cdot x
-$$
+$\text{Trabajadores}_1 \cdot \text{Días}_1 = \text{Trabajadores}_2 \cdot \text{Días}_2$
+
+$4 \cdot 6 = 6 \cdot x$
 
 **Resolución:**
-$$
-24 = 6x \implies x = \frac{24}{6} = 4
-$$
+
+$24 = 6x \implies x = \frac{24}{6} = 4$
 
 **Conclusión:**
 6 trabajadores realizarán el trabajo en **4 días**.
@@ -279,9 +275,9 @@ $$
 ### 5.5 Aplicación ICFES: Porcentajes
 Un porcentaje es una razón cuyo denominador es 100.
 **Ejemplo rápido:** El 15% de descuento en un producto de \$80.000 es:
-$$
-80000 \cdot \frac{15}{100} = 12000
-$$
+
+$80000 \cdot \frac{15}{100} = 12000$
+
 Precio final = \$68.000.
 
 ---
@@ -330,10 +326,12 @@ La modelación consiste en traducir el lenguaje común al lenguaje matemático.
 Una empresa de mensajería cobra una base de \$10.000 por envío, más \$1.500 por cada kilogramo de peso ($k$) y \$500 por cada kilómetro recorrido ($d$).
 
 **Expresión algebraica del costo total $C$:**
-$$C(k, d) = 10000 + 1500k + 500d$$
+
+$C(k, d) = 10000 + 1500k + 500d$
 
 Si un paquete pesa 5 kg y viaja 20 km:
-$$C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500$$
+
+$C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500$
 
 ---
 
