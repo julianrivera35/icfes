@@ -1,5 +1,5 @@
-# Universos Numéricos y Operaciones Fundamentales  
-## Matemáticas – Grado 11° – Preparación ICFES  
+# Universos Numéricos y Operaciones Fundamentales
+## Matemáticas – Grado 11° – Preparación ICFES
 (Basado en Saberes 11 – CEINFES)
 
 ---
@@ -14,9 +14,9 @@ Las matemáticas organizan los números en **conjuntos numéricos**, definidos p
 
 El conjunto de los números naturales está formado por los números utilizados para contar elementos. Es el primer conjunto que el ser humano desarrolló por necesidad práctica.
 
-\[
+$$
 \mathbb{N} = \{1, 2, 3, 4, \dots\}
-\]
+$$
 
 **Propiedades y características:**
 - **Cerrados bajo suma y multiplicación:** El resultado de sumar o multiplicar dos naturales siempre es otro natural.
@@ -29,9 +29,9 @@ El conjunto de los números naturales está formado por los números utilizados 
 
 Surgen ante la necesidad de representar "deudas", temperaturas bajo cero o posiciones debajo del nivel del mar. Incluyen los naturales, el cero y sus opuestos (negativos):
 
-\[
+$$
 \mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}
-\]
+$$
 
 **Aplicaciones:**
 - **Contabilidad:** Ganancias (+) y pérdidas (-).
@@ -43,9 +43,9 @@ Surgen ante la necesidad de representar "deudas", temperaturas bajo cero o posic
 
 Son aquellos que pueden escribirse como el cociente de dos números enteros, donde el divisor es distinto de cero. Representan "partes de un todo".
 
-\[
+$$
 \mathbb{Q} = \left\{ \frac{a}{b} \mid a,b \in \mathbb{Z},\ b \neq 0 \right\}
-\]
+$$
 
 **Representación decimal:**
 - **Decimal finita:** (Ej: $\frac{1}{2} = 0.5$, $\frac{3}{4} = 0.75$).
@@ -71,9 +71,9 @@ Los números irracionales son aquellos que **no pueden expresarse como fracción
 
 Considérese un cuadrado de lado 1. Según el **Teorema de Pitágoras**, la diagonal ($d$) cumple:
 
-\[
+$$
 d^2 = 1^2 + 1^2 = 2 \implies d = \sqrt{2}
-\]
+$$
 
 Al intentar expresar $\sqrt{2}$ como fracción, se descubre que es imposible, lo que lo clasifica como irracional.
 
@@ -83,9 +83,9 @@ Al intentar expresar $\sqrt{2}$ como fracción, se descubre que es imposible, lo
 
 El conjunto de los números reales es la unión de los racionales y los irracionales:
 
-\[
+$$
 \mathbb{R} = \mathbb{Q} \cup \mathbb{I}
-\]
+$$
 
 Todo número que usamos habitualmente en el colegio (excepto las raíces de números negativos) pertenece a los Reales. En la recta numérica, **los Reales la completan totalmente** (no dejan "huecos").
 
@@ -102,7 +102,7 @@ La **recta numérica** es una representación lineal donde a cada punto le corre
 - Ubicar números irracionales.
 - Interpretar desigualdades.
 
-![alt text](image.png)
+![Recta Numérica con Números Naturales, Enteros, Racionales e Irracionales](image.png)
 
 ---
 
@@ -117,9 +117,9 @@ Aunque los números irracionales no pueden escribirse como fracción ni como dec
 Todo número irracional puede aproximarse mediante números racionales.
 
 Ejemplo general:
-\[
+$$
 \sqrt{5} \approx 2.236
-\]
+$$
 
 Esto permite ubicarlo entre 2.23 y 2.24 en la recta.
 
@@ -132,10 +132,10 @@ Este método es útil cuando se trabaja con escalas numéricas o estimaciones.
 Se localiza el irracional determinando dos números racionales entre los cuales se encuentra.
 
 Ejemplo:
-\[
+$$
 2^2 = 4 < 5 < 9 = 3^2
 \Rightarrow \sqrt{5} \in (2,3)
-\]
+$$
 
 Este procedimiento se puede refinar utilizando decimales o fracciones.
 
@@ -179,7 +179,7 @@ Este método utiliza el **Teorema de Pitágoras** ($a^2 + b^2 = c^2$) para const
     3. Hipotenusa = \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{2+1} = \sqrt{3}\).
     4. El arco marca el punto aproximadamente en $1.73$.
 
-![alt text](irracionales-recta.png)
+![Construcción geométrica de raíces cuadradas en la recta numérica](irracionales-recta.png)
 
 ---
 
@@ -224,9 +224,9 @@ El lenguaje de conjuntos es universal en matemáticas. Los conjuntos numéricos 
 
 Una **razón** es la comparación entre dos magnitudes mediante una división. Si se comparan dos cantidades \(a\) y \(b\), la razón entre ellas se expresa como:
 
-\[
+$$
 \frac{a}{b}
-\]
+$$
 
 Esta expresión se lee como *“la razón de \(a\) a \(b\)”*.
 
@@ -238,9 +238,9 @@ Las razones permiten comparar tamaños, cantidades, precios, tiempos o cualquier
 
 Una **proporción** es la igualdad entre dos razones:
 
-\[
+$$
 \frac{a}{b} = \frac{c}{d}
-\]
+$$
 
 Se lee como *“\(a\) es a \(b\) como \(c\) es a \(d\)”*.
 
@@ -266,17 +266,17 @@ En una obra, 4 trabajadores realizan una labor en 6 días. ¿Cuántos días tard
 **Planteamiento (Inversa):**
 Como hay más trabajadores, el tiempo **debe ser menor**. No se igualan las fracciones directamente, sino los productos:
 
-\[
+$$
 \text{Trabajadores}_1 \cdot \text{Días}_1 = \text{Trabajadores}_2 \cdot \text{Días}_2
-\]
-\[
+$$
+$$
 4 \cdot 6 = 6 \cdot x
-\]
+$$
 
 **Resolución:**
-\[
+$$
 24 = 6x \implies x = \frac{24}{6} = 4
-\]
+$$
 
 **Conclusión:**
 6 trabajadores realizarán el trabajo en **4 días**.
@@ -286,9 +286,9 @@ Como hay más trabajadores, el tiempo **debe ser menor**. No se igualan las frac
 ### 5.5 Aplicación ICFES: Porcentajes
 Un porcentaje es una razón cuyo denominador es 100.
 **Ejemplo rápido:** El 15% de descuento en un producto de \$80.000 es:
-\[
+$$
 80000 \cdot \frac{15}{100} = 12000
-\]
+$$
 Precio final = \$68.000.
 
 ---
@@ -337,14 +337,14 @@ La modelación consiste en traducir el lenguaje común al lenguaje matemático.
 Una empresa de mensajería cobra una base de \$10.000 por envío, más \$1.500 por cada kilogramo de peso ($k$) y \$500 por cada kilómetro recorrido ($d$).
 
 **Expresión algebraica del costo total $C$:**
-\[
+$$
 C(k, d) = 10000 + 1500k + 500d
-\]
+$$
 
 Si un paquete pesa 5 kg y viaja 20 km:
-\[
+$$
 C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500
-\]
+$$
 
 ---
 
@@ -363,9 +363,9 @@ C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500
 La diferencia entre un término y el anterior es constante ($d$).
 
 - **Fórmula del término $n$-ésimo:**
-  \[ a_n = a_1 + (n-1)d \]
+  $$a_n = a_1 + (n-1)d$$
 - **Fórmula de la suma de los $n$ primeros términos:**
-  \[ S_n = \frac{n(a_1 + a_n)}{2} \]
+  $$S_n = \frac{n(a_1 + a_n)}{2}$$
 
 **Ejemplo:** En $5, 8, 11, 14, \dots$ ($a_1 = 5, d = 3$).
 - Hallar el término 10: $a_{10} = 5 + (10-1)3 = 5 + 27 = 32$.
@@ -378,9 +378,9 @@ La diferencia entre un término y el anterior es constante ($d$).
 Cada término se obtiene multiplicando el anterior por una razón constante ($r$).
 
 - **Fórmula del término $n$-ésimo:**
-  \[ a_n = a_1 \cdot r^{n-1} \]
+  $$a_n = a_1 \cdot r^{n-1}$$
 - **Fórmula de la suma de los $n$ primeros términos:**
-  \[ S_n = \frac{a_1(r^n - 1)}{r - 1} \quad (r \neq 1) \]
+  $$S_n = \frac{a_1(r^n - 1)}{r - 1} \quad (r \neq 1)$$
 
 **Ejemplo:** En $3, 6, 12, 24, \dots$ ($a_1 = 3, r = 2$).
 - Hallar el término 5: $a_5 = 3 \cdot 2^{5-1} = 3 \cdot 16 = 48$.
@@ -468,9 +468,9 @@ En la expresión **\(\log_b a = x\)**:
 
 Estas tres operaciones son caras de la misma moneda. Se pueden ver como una estructura circular:
 
-\[
+$$
 \text{Si } 2^3 = 8 \text{ entonces:}
-\]
+$$
 - **Potenciación:** $2^3 = ?$ (Busca la potencia: 8).
 - **Radicación:** $\sqrt[3]{8} = ?$ (Busca la base: 2).
 - **Logaritmación:** $\log_2 8 = ?$ (Busca el exponente: 3).
