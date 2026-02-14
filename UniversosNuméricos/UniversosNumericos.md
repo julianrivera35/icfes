@@ -113,9 +113,8 @@ Aunque los números irracionales no pueden escribirse como fracción ni como dec
 Todo número irracional puede aproximarse mediante números racionales.
 
 Ejemplo general:
-$$
-\sqrt{5} \approx 2.236
-$$
+
+$\sqrt{5} \approx 2.236067...$
 
 Esto permite ubicarlo entre 2.23 y 2.24 en la recta.
 
@@ -128,10 +127,8 @@ Este método es útil cuando se trabaja con escalas numéricas o estimaciones.
 Se localiza el irracional determinando dos números racionales entre los cuales se encuentra.
 
 Ejemplo:
-$$
-2^2 = 4 < 5 < 9 = 3^2
-\Rightarrow \sqrt{5} \in (2,3)
-$$
+
+$2^2=4<5<9=3^2\Rightarrow\sqrt{5}\in(2,3)$
 
 Este procedimiento se puede refinar utilizando decimales o fracciones.
 
@@ -333,14 +330,10 @@ La modelación consiste en traducir el lenguaje común al lenguaje matemático.
 Una empresa de mensajería cobra una base de \$10.000 por envío, más \$1.500 por cada kilogramo de peso ($k$) y \$500 por cada kilómetro recorrido ($d$).
 
 **Expresión algebraica del costo total $C$:**
-$$
-C(k, d) = 10000 + 1500k + 500d
-$$
+$$C(k, d) = 10000 + 1500k + 500d$$
 
 Si un paquete pesa 5 kg y viaja 20 km:
-$$
-C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500
-$$
+$$C = 10000 + 1500(5) + 500(20) = 10000 + 7500 + 10000 = \$27.500$$
 
 ---
 
