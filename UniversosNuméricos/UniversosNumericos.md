@@ -40,7 +40,7 @@ $$
 Son aquellos que pueden escribirse como el cociente de dos números enteros, donde el divisor es distinto de cero. Representan "partes de un todo".
 
 $$
-\mathbb{Q} = \left\{ \frac{a}{b} \mid a,b \in \mathbb{Z}, b \neq 0 \right\}
+\mathbb{Q} = \left\lbrace \frac{a}{b} \mid a,b \in \mathbb{Z}, b \neq 0 \right\rbrace
 $$
 
 **Representación decimal:**
